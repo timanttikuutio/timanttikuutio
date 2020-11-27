@@ -5,7 +5,6 @@
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-262626?style=for-the-badge&logo=python">
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-262626?style=for-the-badge&logo=postgresql">
-  <img alt="Java" src="https://img.shields.io/badge/-java-262626?style=for-the-badge&logo=java">
 </p>
 
 <h3 align="center">Frameworks & Programs<br></h3>
