@@ -4,6 +4,7 @@
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-262626?style=for-the-badge&logo=python">
+  <img alt="Go" src="https://img.shields.io/badge/-Go-262626?style=for-the-badge&logo=go">
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-262626?style=for-the-badge&logo=postgresql">
 </p>
 
